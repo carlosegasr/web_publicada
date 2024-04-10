@@ -62,6 +62,10 @@ body div header nav ul li{
     color: white;
 }
 
+.greeting{
+    background-color: #76aeed;
+}
+
 .seccion-1{
     display: flex;
     background-color: #eee;
